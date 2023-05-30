@@ -1,5 +1,3 @@
-# Nadav Yedid 208271007
-
 library(MASS)
 library(AER)
 
