@@ -1,5 +1,3 @@
-# Nadav Yedid 208271007
-
 # Q1 ----
 path = choose.files()
 DF = read.csv(path)
