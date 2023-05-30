@@ -1,4 +1,3 @@
-# Nadav Yedid 208271007
 path = choose.files()
 data = read.csv(path)
 str(data)
